@@ -86,9 +86,3 @@ This project aims to analyze and visualize data related to the streaming content
 4. **Balance Content Ratings:** Ensure a balanced mix of content ratings to cater to diverse audience preferences.
 5. **Leverage Popular Titles:** Promote the most popular titles identified by the popularity measure.
 6. **Monitor Emerging Trends:** Continuously monitor and analyze emerging trends in genres to stay ahead of viewer preferences.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Amazon-Prime-Video-Streaming-Insights.git
